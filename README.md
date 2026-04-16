@@ -10,12 +10,14 @@ Grab what you need, ignore the rest.
 
 | Tool | What it does | How to use |
 |---|---|---|
-| [Luxury Home Estimator — AU](tools/luxury-estimator/) | Produces an indicative cost estimate for a high-end Australian residential build, with breakdown, risks, VE moves, PDF, and an email draft for your project manager. | Paste [SKILL.md](tools/luxury-estimator/SKILL.md) into a Claude project |
+| [Luxury Home Estimator — AU](tools/luxury-estimator/) | Indicative cost estimate for a high-end Australian residential build — breakdown, risks, value-engineering moves, PDF, and an email draft for your project manager. | Paste [SKILL.md](tools/luxury-estimator/SKILL.md) into a Claude project |
+| [Client Discovery Brief](tools/client-discovery-brief/) | Runs a 7-section discovery questionnaire for any service business, produces a one-page scope brief, and drafts a confirmation email to the client. Prep / live / writeup modes. | Paste [SKILL.md](tools/client-discovery-brief/SKILL.md) into a Claude project |
 
 ## Coming soon
 
-- Quote-to-invoice generator
-- Client discovery questionnaire (service businesses)
+- Quote-to-invoice generator (GST-compliant, AU)
+- JSA / SWMS generator (builders + trades)
+- Tender response assistant
 - SEO content brief builder
 - Social media caption + hook generator
 - Simple P&L template (Excel)
